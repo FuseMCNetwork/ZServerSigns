@@ -1,0 +1,6 @@
+name: ZSignLobby
+version: 2.0.0
+authors: [johnking]
+
+main: me.johnking.zsignlobby.Main
+depend: [ZBukkitPlugin, DKLib, ZCore]

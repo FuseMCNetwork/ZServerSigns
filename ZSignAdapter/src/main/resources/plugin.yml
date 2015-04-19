@@ -1,0 +1,6 @@
+name: ZSignAdapter
+version: 2.0.0
+authors: [johnking]
+
+main: me.johnking.zsignadapter.ZSignAdapter
+depend: [ZBukkitPlugin, ZCore]
